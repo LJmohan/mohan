@@ -1,8 +1,8 @@
 #include "Sim.h" 
 qqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqdsddddddddddddddddddddddfsfsf
 //1.º∆À„Ã›∂»ƒ£
-hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh'kloy7ir6udrthrtyhty
-//11111111111111111111111111111
+hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh'kloy7ir6udrthrtyhtylopu8t76r5554434444444444444444444
+//11111111111111111111111111111bvdcddddddddddddddkkkkkkkkkkkkkkkkkk
 int Sim::gradient(const Mat& src,Mat& magnitudes)
 {
 dst = src;
